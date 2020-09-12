@@ -1,0 +1,38 @@
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: Open Sans
+} 
+h1 {
+  font-size: 60px;
+  border: 1px solid black;
+  border-radius: 1cm;
+  border-width: 2px;
+  border-style: groove;
+  text-align: center;
+}
+p, ul{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #D9C3C3;
+}
+body {
+  width: 600px;
+  margin: auto;
+  background-color: #FCCECE;
+  padding: 10px 20px 20px 20px;
+  border: 1px solid black;
+}
+h1 {
+  margin: auto;
+  padding: 20px 0;    
+  color: black;
+  text-shadow: 3px 3px 1px white;
+}
+img {
+  display: block;
+  margin: 10px auto;
+  width: 600px;
+}
